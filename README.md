@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GoTierGod.
-- 👀 I’m interested in start to learn about programming.
-- 🌱 I’m currently learning Pyhton POO.
+- 👀 I'm a rookie programmer.
+- 🌱 I’m currently learning Pyhton and WEB programming.

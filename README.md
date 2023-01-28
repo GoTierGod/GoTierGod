@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @GoTierGod.
+Hi, I’m @GoTierGod.
+A Full-Stack Web Developer specialized in React and Django.

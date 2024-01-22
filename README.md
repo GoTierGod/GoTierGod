@@ -1,3 +1,4 @@
-Iván - @GoTierGod.
+Iván Zamorano
+@GoTierGod
 
-Full-Stack Web Developer.
+Full-Stack Web Developer

@@ -1,6 +1,4 @@
-Iván Zamorano
-@GoTierGod
-Full-Stack Web Developer
+Iván Zamorano @GoTierGod | Full-Stack Web Developer
 
 Dedicated web developer with a solid foundation built over 2
 years of high-quality learning, spanning around tens of courses,

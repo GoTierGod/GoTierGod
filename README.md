@@ -18,6 +18,6 @@ I specialize in bridging the gap between technical logic and user experience. Wh
 ---
 
 ### 📫 Reach Me
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gotiergod/)
+- 📧 [Email](gotiergod@outlook.com)
+- 🌐 [Portfolio](https://gotiergod.vercel.app/)

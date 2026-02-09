@@ -1,26 +1,23 @@
-Ivan Zamorano
+# 👋 Hi, I'm Ivan Zamorano
 
-Full-Stack Developer · Analyst Programmer
-📍 Chile · 🎂 26 years old
+### Full-Stack Software Engineer | Analyst Programmer
+**Chile · O'Higgins**
 
-👨‍💻 Profile
+I am a developer dedicated to building end-to-end digital products. My background combines the grit of being self-taught with the formal structure of a Programming Analyst, allowing me to build scalable web applications with a focus on performance and clean architecture.
 
-Full-stack developer specialized in modern web development, with hands-on experience delivering end-to-end projects—from architecture and interface design to development, deployment, and production optimization.
+---
 
-I have worked as a freelance developer, building complete websites and performing technical audits focused on performance, essential security, and user experience.
+### 🚀 Technical Focus
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Python (Django/Flask), REST APIs
+* **Infrastructure:** PostgreSQL, Docker, Supabase, Vercel
 
-I am characterized by:
+### 🧠 Beyond Code
+I specialize in bridging the gap between technical logic and user experience. Whether it's optimizing SEO, conducting security audits, or managing a project from design to deployment, I focus on delivering quality at every layer of the stack.
 
-A solid foundation in JavaScript and TypeScript
+---
 
-Strong logical thinking and problem-solving skills
-
-A disciplined focus on best practices and continuous learning
-
-I combine self-taught training with formal studies as a Programming Analyst, allowing me to merge practical technical judgment with academic fundamentals.
-
-🚀 Career Path
-
-I began my journey in software development as a self-taught learner, spending several years building real-world projects and solving practical problems.
-
-Currently, I am pursuing a degree as a Programming Analyst, while continuing to grow professionally through ongoing development work and applied learning.
+### 📫 Reach Me
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 [Email](mailto:your.email@example.com)
+- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
